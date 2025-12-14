@@ -1,5 +1,7 @@
 # 🍔 Quick-Service Restaurant Sales Exploratory Analysis
 
+![sales picture](https://raw.githubusercontent.com/PhotonDanalyst/Uber-Analysis-Dashboard/main/pics.jpg)
+
 ## 🎯 Project Goal
 The primary objective of this project was to conduct a detailed exploratory data analysis (EDA) of sales transactions to identify key performance indicators (KPIs), understand product performance, and uncover trends that can inform operational and marketing strategies.
 
